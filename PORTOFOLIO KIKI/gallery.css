@@ -1,0 +1,25 @@
+.kiki {
+    color:  rgb(238, 138, 162);
+    background-image:url(logo/bekgron.jpg);
+    width: 80%;
+    padding: 80%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+body {
+    background-image: url(logo/bekgron.jpg);
+    background-position-y: top;
+    background-color: white;
+    margin: auto;
+    padding: 120px 80px;
+}
+img {
+    border: 3px solid  rgb(238, 138, 162);
+    margin: 20px;
+    margin-left: 49px;
+}
+h1{
+    color: white;
+    background-color:  rgb(238, 138, 162);
+    padding: 10px;
+}

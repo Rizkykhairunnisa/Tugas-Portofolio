@@ -1,0 +1,90 @@
+.navbar{
+    width: 100%;
+    background-color: rgb(238, 130, 162);
+    padding: 10px;
+}
+a{
+    text-decoration: whitesmoke;
+    color: black;
+    text-decoration-style: solid;
+    font-size: 20px;
+}
+span{
+    font-size: 30px;
+}
+li{
+    font-size: 20px;
+}
+body{
+    margin: 0;
+    background-position-y: top;
+    background-size: cover;
+    background-image: url(logo/bekgron.jpg) ;
+}
+.content{
+    width: 100%;
+    background-image: url
+}
+.content-judul{
+    color: white;
+}
+.nav-body{
+    width: 80%;
+    margin: auto;
+}
+.nav-body ul{
+    margin: 0;
+    padding: 10px;
+    float: right;
+    padding-bottom: 10px;
+    font-size: 40px;
+    text-decoration-color: black;
+}
+.nav-body li{
+    display: inline;
+    padding: 20px;
+    padding-left:5px;
+    padding-top: 20px;
+    padding bottom: 20px;
+}
+div{
+    padding: ;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+h3{
+    font-family: initial;
+    margin: auto;
+    padding: 100px 60px;
+}
+h3{
+    font-family: initial;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(238, 130, 162);
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    border: white;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    margin: auto;
+    margin-top: 30px;
+}
